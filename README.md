@@ -1,5 +1,5 @@
 # Olá Mundo!
-link do [Projeto Final](https://danubiabcamargo.github.io/senac-projeto-uc1-uc2/)
+link do [Projeto Final](https://danubiabcamargo.github.io/senac-projeto-uc1-uc2/target="_blank")
 ***
 
 ## SUMÁRIO
