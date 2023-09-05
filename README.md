@@ -20,6 +20,7 @@ link do [Projeto Final](https://danubiabcamargo.github.io/senac-projeto-uc1-uc2/
   - As cores usadas se complementam, não geram atrito e desconforto ao usuário, são colocadas em pequenos pontos na plataforma para que os alunos tenham mais foco no conteúdo ensinado
 
  ## FONTES
+<<<<<<< HEAD
  <img src="imagens/olamundo.png">        
  <br>
  Fonte: FF Cocon
@@ -79,3 +80,13 @@ Mariana S. Ferreira
 <br><br>
 <h2>Professor:</h2>
 Cristiano Maia 
+=======
+ <img src="/imagens/olamundo.png"/>
+ <br>
+ Fonte: FF Cocon
+ <br>
+ *  Dinâmica
+ *  Autêntica
+ *  Divertida 
+ *  Atual
+>>>>>>> ac17378902398d182ab4ba935c1586f18ab59ab6
